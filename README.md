@@ -1,16 +1,33 @@
-## Hi there 👋
+Olá, eu sou o Lucas Delfini! Muito prazer!
+"A grandeza do futuro é construída com os hábitos do presente."
 
-<!--
-**Full-LucasDelfini/Full-LucasDelfini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Sou um entusiasta da tecnologia e futuro Desenvolvedor Full Stack. Atualmente curso Engenharia de Software e dedico meu tempo para dominar a arte da programação e do raciocínio lógico através de projetos práticos e cursos especializados.
 
-Here are some ideas to get you started:
+Graduando em Engenharia de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando Inglês para expansão técnica e profissional.
+
+Apaixonado por transformar raciocínio lógico em soluções reais.
+
+Filosofia de Aprendizado
+Busco constantemente evoluir como profissional e como pessoa. Tenho ciência de que o conhecimento cognitivo é uma grandeza infinita, e essa imensidão é o que me motiva a aprender cada vez mais.
+
+"O segredo do sucesso é a constância no objetivo." — Gustavo Guanabara
+
+No que estou focado agora?
+Back-end com Python: Consolidando lógica e autonomia técnica.
+
+Fundamentos de Engenharia: Arquitetura, boas práticas e Clean Code.
+
+Mercado de Trabalho: Preparação para entrevistas e busca por primeira oportunidade.
+
+Meus Objetivos
+Dominar o ecossistema Full Stack.
+
+Conquistar minha primeira vaga em Tech.
+
+Expandir horizontes através do inglês técnico.
+
+Disposto a trabalhar duro e estudar para crescer. Vamos construir o futuro juntos!🚀
+Me coloco a disposição e estou 100% disposto para qualquer demanda ou oportunidade!
