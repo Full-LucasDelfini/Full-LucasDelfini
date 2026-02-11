@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia e futuro Desenvolvedor Full Stack. Atualmente cu
 
 🌎 Estudando Inglês para expansão técnica e profissional.
 
-💡 Apaixonado por transformar raciocínio lógico em soluções reais.
+💡 Apaixonado pela área de exatas e em transformar o raciocínio lógico em soluções reais.
 
 🧠 Filosofia de Aprendizado
 Busco constantemente evoluir como profissional e como pessoa. Tenho ciência de que o conhecimento cognitivo é uma grandeza infinita, e essa imensidão é o que me motiva a aprender cada vez mais.
