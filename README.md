@@ -1,5 +1,5 @@
 Olá, eu sou o Lucas Delfini! 👋
-"A grandeza do futuro é construída com os hábitos do presente."
+"A grandeza do futuro é construída com os pequenos hábitos constantes do presente."
 
 🚀 Sobre Mim
 Sou um entusiasta da tecnologia e futuro Desenvolvedor Full Stack. Atualmente curso Engenharia de Software e dedico meu tempo para dominar a arte da programação e do raciocínio lógico através de projetos práticos e cursos especializados.
