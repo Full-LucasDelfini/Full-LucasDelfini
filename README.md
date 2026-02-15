@@ -3,7 +3,7 @@ Olá, eu sou o Lucas Delfini! 👋
 > "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito."
 > — **Aristóteles**
 
-🚀 Sobre Mim
+🚀 Sobre Mim:
 Sou um entusiasta da tecnologia e futuro Desenvolvedor Full Stack. Atualmente curso Engenharia de Software e dedico meu tempo para dominar a arte da programação e do raciocínio lógico através de projetos práticos e cursos especializados.
 
 🎓 Graduando em Engenharia de Software.
