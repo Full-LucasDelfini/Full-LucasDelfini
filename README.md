@@ -1,4 +1,5 @@
 Olá, eu sou o Lucas Delfini! 👋
+
 "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito". — Aristóteles
 
 🚀 Sobre Mim
