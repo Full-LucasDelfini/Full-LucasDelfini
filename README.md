@@ -1,34 +1,26 @@
 Olá, eu sou o Lucas Delfini! 👋
+Engenheiro de Software em formação com foco em desenvolver soluções robustas, escaláveis e pautadas em lógica avançada. Acredito que a excelência técnica é o resultado da constância e da atenção aos detalhes.
 
-> "Nós somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito."
-> — **Aristóteles**
+🚀 Sobre Mim
+Sou um entusiasta da área de exatas que encontrou na Engenharia de Software o ambiente ideal para transformar raciocínio abstrato em sistemas reais. Atualmente, dedico meu deep work ao domínio do ecossistema Python e aos fundamentos de Arquitetura de Software, sempre priorizando Clean Code e a eficiência algorítmica.
 
-🚀 Sobre Mim:
-Sou um entusiasta da tecnologia e futuro Desenvolvedor Full Stack. Atualmente curso Engenharia de Software e dedico meu tempo para dominar a arte da programação e do raciocínio lógico através de projetos práticos e cursos especializados.
+🎓 Graduando em Engenharia de Software: Foco em ciclo de vida de software e boas práticas.
 
-🎓 Graduando em Engenharia de Software.
+🌎 Global Mindset: Estudo ativo de Inglês para documentação técnica e colaboração internacional.
 
-🌎 Estudando Inglês para expansão técnica e profissional.
+🧠 Lifelong Learner: Ciência de que a tecnologia evolui rápido, e minha capacidade de adaptação é meu maior ativo.
 
-💡 Apaixonado pela área de exatas e em transformar o raciocínio lógico em soluções reais.
+🛠️ Tech Stack & Ferramentas
+Linguagens & Lógica: Python (Back-end), Estruturas de Dados e Algoritmos.
 
-🧠 Filosofia de Aprendizado
-Busco constantemente evoluir como profissional e como pessoa. Tenho ciência de que o conhecimento cognitivo é uma grandeza infinita, e essa imensidão é o que me motiva a aprender cada vez mais.
+Versionamento & Workflow: Git, GitHub, VS Code.
 
-"O segredo do sucesso é a constância no objetivo." — Gustavo Guanabara
+Engenharia: Fundamentos de Clean Code, SOLID e padrões de projeto.
 
-🛠️ No que estou focado agora?
-Back-end com Python: Consolidando lógica e autonomia técnica.
+🎯 O que busco agora
+Estou em busca da minha primeira oportunidade como Desenvolvedor Trainee ou Estagiário. Meu objetivo é integrar um time onde eu possa aplicar minha base teórica de engenharia em desafios reais, contribuindo com código de qualidade e aprendizado acelerado.
 
-Fundamentos de Engenharia: Arquitetura, boas práticas e Clean Code.
+Estou 100% disponível para novos desafios. Vamos construir o futuro juntos!
 
-Mercado de Trabalho: Preparação para entrevistas e busca pela primeira oportunidade.
-
-🎯 Meus Objetivos
-Dominar o ecossistema Full Stack.
-
-Conquistar minha primeira vaga em Tech.
-
-Expandir horizontes através do inglês técnico.
-
-Estou 100% disposto para qualquer demanda ou oportunidade. Vamos construir o futuro juntos! 🚀
+📫 Conecte-se comigo:
+LinkedIn | E-mail | Portfólio/Projetos
