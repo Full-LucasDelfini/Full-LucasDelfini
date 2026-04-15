@@ -21,3 +21,8 @@ Engenharia: Fundamentos de Clean Code, SOLID e padrões de projeto.
 Estou em busca da minha primeira oportunidade como Desenvolvedor Trainee ou Estagiário. Meu objetivo é integrar um time onde eu possa aplicar minha base teórica de engenharia em desafios reais, contribuindo com código de qualidade e aprendizado acelerado.
 
 Estou 100% disponível para novos desafios. Vamos construir o futuro juntos!
+
+📫 Conecte-se comigo:
+🔗 LinkedIn
+
+📧 lucasdelfini634@gmail.com
