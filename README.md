@@ -23,6 +23,5 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Trainee ou Esta
 Estou 100% disponível para novos desafios. Vamos construir o futuro juntos!
 
 📫 Conecte-se comigo:
-🔗 LinkedIn https://www.linkedin.com/in/lucas-delfini-61928b3a6/
-
-📧 lucasdelfini634@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-delfini-61928b3a6/
+📧 E-mail: lucasdelfini634@gmail.com
