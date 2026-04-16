@@ -2,7 +2,7 @@ Olá, eu sou o Lucas Delfini! 👋
 Engenheiro de Software em formação com foco em desenvolver soluções robustas, escaláveis e pautadas em lógica avançada. Futuro Automatizador de tarefas manuais cotidianas e Corretor de IndexError.
 
 🚀 Sobre Mim:
-Sou um entusiasta da área de exatas que encontrou na Engenharia de Software o ambiente ideal para transformar raciocínio abstrato em sistemas reais. Atualmente, dedico meu deep work ao domínio das linguagens Python e Java, explorando os fundamentos de Arquitetura de Software, sempre priorizando Clean Code e a eficiência algorítmica, visando além de tudo a produtividade mediante o pensamento crítico com a automatização.
+Sou um entusiasta da área de exatas que encontrou na Engenharia de Software o ambiente ideal para transformar raciocínio abstrato em sistemas reais. Atualmente, dedico meu deep work ao domínio das linguagens Python e Java, explorando os fundamentos de Arquitetura de Software, aprimorando a autonômia técnica, visando além de tudo a produtividade mediante ao pensamento crítico com a automatização.
 
 🎓 Graduando em Engenharia de Software na Universidade São Francisco.
  Estudo ativo de Inglês para documentação técnica e colaboração internacional.
