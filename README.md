@@ -4,9 +4,8 @@ Engenheiro de Software em formação com foco em desenvolver soluções robustas
 🚀 Sobre Mim:
 Sou um entusiasta da área de exatas que encontrou na Engenharia de Software o ambiente ideal para transformar raciocínio abstrato em sistemas reais. Atualmente, dedico meu deep work ao domínio das linguagens Python e Java, explorando os fundamentos de Arquitetura de Software, sempre priorizando Clean Code e a eficiência algorítmica, visando além de tudo a produtividade mediante o pensamento crítico com a automatização.
 
-🎓 Graduando em Engenharia de Software: Foco em ciclo de vida de software e boas práticas.
-
-🌎 Global Mindset: Estudo ativo de Inglês para documentação técnica e colaboração internacional.
+🎓 Graduando em Engenharia de Software na Universidade São Francisco.
+ Estudo ativo de Inglês para documentação técnica e colaboração internacional.
 
 🧠 Lifelong Learner: Ciência de que a tecnologia evolui rápido, e minha capacidade de adaptação é meu maior ativo.
 
@@ -18,9 +17,9 @@ Versionamento & Workflow: Git, GitHub, VS Code, IntelliJ IDEA.
 Engenharia: Fundamentos de Clean Code, SOLID e padrões de projeto.
 
 🎯 O que busco agora
-Estou em busca da minha primeira oportunidade como Desenvolvedor Trainee ou Estagiário. Meu objetivo é integrar um time onde eu possa aplicar minha base teórica de engenharia em desafios reais, contribuindo com código de qualidade e aprendizado acelerado.
+Estou em busca da minha primeira oportunidade como Desenvolvedor Trainee ou Estagiário. Meu objetivo é integrar um time onde eu possa aplicar minha base teórica de engenharia em desafios reais, contribuindo com código de qualidade e aprendizado acelerado aplicado ao mercado.
 
-Estou 100% disponível para novos desafios. Vamos construir o futuro juntos!
+Me coloco à disposição para eventuais dúvidas ou demandas!
 
 📫 Conecte-se comigo:
 🔗 LinkedIn: https://www.linkedin.com/in/lucas-delfini-61928b3a6/
