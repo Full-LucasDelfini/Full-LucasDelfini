@@ -2,7 +2,7 @@ Olá, eu sou o Lucas Delfini! Recepcionista de hotel, construindo na prática o 
 
 Sobre Mim: Sou graduando em Engenharia de Software na Universidade São Francisco e, no dia a dia, trabalho na recepção de um hotel. Foi ali que descobri, na prática, o valor de automatizar tarefas repetitivas: criei uma mensagem automática de boas-vindas para hóspedes com informações de check-in, check-out e estacionamento conveniado, e passei a divulgar o cardápio do restaurante diariamente pelo status do WhatsApp do hotel — soluções simples que já geraram retorno real de hóspedes e elogios da equipe.
 
-Meu primeiro projeto pessoal em mente é justamente um sistema de gestão hoteleira — unindo o que aprendo em código com o que vivo todos os dias na recepção.
+Meu primeiro projeto pessoal em mente é justamente um sistema de gestão hoteleira, unindo o que aprendo em código com o que vivo todos os dias na recepção.
 
 Ainda estou decidindo entre me aprofundar em backend ou explorar Inteligência Artificial, mas o fio condutor é sempre o mesmo: gosto de automatizar o que é manual e repetitivo.
 
